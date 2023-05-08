@@ -13,7 +13,6 @@ int main(int argc, char *argv[])
     //return 0;
 }
 
-
 #ifdef this_function_is_for_simplifying_map_file
 int main(int argc, char *argv[])
 {
